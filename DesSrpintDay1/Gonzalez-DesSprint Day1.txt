@@ -1,0 +1,36 @@
+﻿1 . Scenarios 
+1.1 Sharon, Carla, and Isabel are planning on starting a coding project soon but are looking for someone that has experience with HTML and CSS since they want to learn from someone with expertise and finish the project within the deadline they established. They go to the website DevLink that is one of the CCI resources to find someone to join. they , then, post their project idea, the description of the project, and they link the github repo with what they currently have done with the project. Thus, waiting for someone to see their project post and reach out. 
+
+
+1.2 John is a Junior in CS at UNCC and wants to complete a project but doesn’t like any of the ideas he has had so far. Thus, he hears about this DevLink resource that his friend Tyler was telling him about. John goes to the website, signs up, and starts scrolling through the different projects and little summaries of each one to see what he is interested in. He, then, finds a project that caught his attention. He clicks on the post to learn more about the project in-depth. He also checks the github of the project and likes where the project is going. He notices that the people who posted the project are currently looking for someone to work in the backend portion, which he has expertise in. John goes ahead and requests access to the project as a way to let the group know that he would like to join. After a day, he meets with the group and gets accepted to participate in the project. 
+
+
+1.3 Sarah is a freshman in CS at UNCC and wants to work on a project but she does not know where to start or who to talk to about it. She is also a commuter which makes it 10 times more difficult to talk to others about your project idea and start working on it. Thus, she hears about a website that the school offers called DevLink. She, since does not know many people in person and tries to find a platform to find group members for personal projects, goes and signs up for DevLink. She starts checking the website, what is available, the people with the most points, the people who utilize the website the most, and the current projects that are currently taking people in. She decides to reach out to the people that participate the most because she would like to get advice from them and request to join a couple of projects. After waiting for a response, she gets accepted into one of the projects and gets to know one of the main contributors of DevLink. That person tells her that the website is great for people skills and friendships with people you work on projects with. 
+
+
+2. User stories 
+2.1 As a sophomore in Computer Science at UNCC, I want to find programming projects online to facilitate the process of finding people to collaborate with so that I can keep building my skills and learn from others with more experience than me in certain fields. 
+
+
+2.2 As a college recruiter at XYZ company, I want a website that showcases the current projects the students of UNCC have been working on so that I can see the talent each one has and potentially offer opportunities. 
+
+
+2.3 As a junior in CS at UNCC working on a project, I need to find new people to help me finish the project I have been working on for months so that I can have more time for classes and deliver our group project in a specific deadline. 
+2.4 As a commuter CS student at UNCC, I want to be able to be involved with other CS students and work on projects together so that I can enhance my skills and meet new people as part of networking. 
+
+
+3. Feature list 
+        3.1  ‘Join Project’ button
+Carla saw a post on a project, read more about it, and decided to send a request to join the project. 
+
+
+        3.2  ‘Github View’
+As a CS student, Mark wants to see more details of the project he was to join, he opens the project page and checks the github from DevLink as a page view. 
+
+
+        3.3 ‘Profile View’ 
+As a student that was to talk with one of the contributors of XYZ project, she clicks on the profile page and reads more information about the contributor and their background. 
+
+
+3.4 ‘Posts-like Project summaries’ 
+As a student that wants to join a project, I scroll down the home page reading the brief descriptions of all the projects currently active.
